@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/faq": "file:./modules/faq",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/zoom-free-calling": "file:./modules/zoom-free-calling/",
     "@react-native-community/checkbox": "0.5.10",
     "@react-native-cookies/cookies": "6.0.11",
