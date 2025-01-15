@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
 - [django-disqus](backend/modules)
 - [django-ocr](backend/modules)
+- [faq]()
 
 # Getting started: Frontend
 
